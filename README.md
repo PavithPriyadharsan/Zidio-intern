@@ -12,5 +12,5 @@ This project is a real-time chat application developed using the MERN stack (Mon
 
 ## Members
 
-Sharan M A
-Mitali Maurya 
+- Sharan M A
+- Mitali Maurya 
