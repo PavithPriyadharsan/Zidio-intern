@@ -11,3 +11,5 @@ This project is a real-time chat application developed using the MERN stack (Mon
 - **Responsive Design**: Mobile-friendly interface that adapts to different device screens.
 
 ## Members
+
+Sharan M A
